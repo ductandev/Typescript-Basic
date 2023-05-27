@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "./js", // Đường dẫn biuld files TS ra JS 
+    "target": "ES6",
+    "module": "CommonJS"
+  }
+}
