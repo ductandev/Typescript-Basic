@@ -4,8 +4,16 @@
 Cài đặt typescript
 ```
 $ npm i typescript -g
+
+Khởi tạo files config
 $ tsc --init
+
+biuld files javascript
+$ tsc-w
+
 ```
+![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/2c2218e8-821b-41a5-8b13-f8e7f92c013b)
+
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/a46928df-72b2-4e31-8eae-3b8944f777d1)
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/0f8604bd-54bd-4786-93a4-f05fa724632a)
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/17b29aef-53dc-4897-b0e8-8f30acc4a0b0)
