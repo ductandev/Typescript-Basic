@@ -3,18 +3,23 @@
 
 Cài đặt typescript
 ```
-$ npm i typescript -g
+$ npm i typescript -g                                                          (nếu là macbbok thì thêm 'sudo' ở đầu lệnh)
 
-Khởi tạo files config
+Khởi tạo file tsconfig.json
 $ tsc --init
 
-biuld files javascript
+biuld file "index.js" tự động 
 $ tsc-w
 
 ```
-![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/2c2218e8-821b-41a5-8b13-f8e7f92c013b)
+Cấu hình file tsconfig.json
+![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/2c2218e8-821b-41a5-8b13-f8e7f92c013b) <br><br><br>
 
-![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/a46928df-72b2-4e31-8eae-3b8944f777d1)
+# [Type && Interface]()
+![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/d3e94c8d-9b70-42ce-a43b-99d083897a59)
+![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/3c2b28d7-69cc-463f-9ed5-dab027946cba)
+
+
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/0f8604bd-54bd-4786-93a4-f05fa724632a)
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/17b29aef-53dc-4897-b0e8-8f30acc4a0b0)
 ![image](https://github.com/ductandev/Typescript_Basic/assets/42485856/e2bfd11b-0429-49a3-89e3-5737cfdb0cc1)
